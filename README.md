@@ -55,5 +55,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+![WhatsApp Image 2025-08-30 at 22 55 27_2e981d43](https://github.com/user-attachments/assets/3fe90777-5c2e-4438-b1ef-92854c794ac0)
+
 ## Output
+![WhatsApp Image 2025-08-30 at 22 56 15_d9551a74](https://github.com/user-attachments/assets/40633cc7-e685-43df-adb9-2ed0206d8fc1)
+
 ## Result
+Thus the uncontrolled-Full-wave-rectifier is simulated.
